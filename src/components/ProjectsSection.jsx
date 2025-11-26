@@ -28,6 +28,15 @@ const projects = [
     demoUrl: "https://news-weather-dashboard-aniket.vercel.app",
     githubUrl: "https://github.com/aniket-soni03/News-Weather-Dashboard.git",
   },
+  {
+    id: 4,
+    title: "TinyLink",
+    description: "A lightweight URL shortener that creates compact links and provides real-time click stats with a clean and responsive interface.",
+    image: "/projects/project4.png",
+    tags: ["React","Spring Boot","REST API", "HTML", "CSS", "Fetch API"],
+    demoUrl: "https://tiny-link-aniket.vercel.app",
+    githubUrl: "https://github.com/aniket-soni03/TinyLink.git",
+  },
 ];
 
 export const ProjectsSection = () => {

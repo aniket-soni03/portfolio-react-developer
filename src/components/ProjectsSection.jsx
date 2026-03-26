@@ -7,8 +7,8 @@ const projects = [
     description: "A responsive job portal enabling users to register, log in, and manage job postings with secure role-based authentication.",
     image: "/projects/project1.png",
     tags: ["React", "Spring Boot", "REST API", "Spring Data JPA", "Spring JWT", "SQL"],
-    demoUrl: "#",
-    githubUrl: "https://github.com/aniket-soni03/online-job-portal-fullstack.git",
+    demoUrl: "https://github.com/aniket-soni03/job-portal-fullstack-react-springboot.git",
+    githubUrl: "https://github.com/aniket-soni03/job-portal-fullstack-react-springboot.git",
   },
   {
     id: 2,
@@ -16,8 +16,8 @@ const projects = [
     description: "A full-stack banking platform for managing accounts, transactions, and administrative operations with robust security controls.",
     image: "/projects/project2.png",
     tags: ["React", "HTML", "CSS", "JavaScript"],
-    demoUrl: "https://food-recipe-website-frontend.vercel.app",
-    githubUrl: "https://github.com/aniket-soni03/food-recipe-website-frontend.git",
+    demoUrl: "https://aniket-recipe-finder-react.vercel.app",
+    githubUrl: "https://github.com/aniket-soni03/recipe-finder-react-api.git",
   },
   {
     id: 3,
